@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Java
 - Android Studio
 - XML para UI Layout
@@ -50,5 +50,5 @@ As telas de cada projeto possuem ilustrações com `ImageView`, incluindo logos,
 
 ##  Autor
 **Rafaela Coelho Bastos**  
-Estudante de Análise e Desenvolvimento de Sistemas na FECAP 💻  
+Estudante de Análise e Desenvolvimento de Sistemas na FECAP 
 
